@@ -21,7 +21,7 @@ body {
 
 .row {
     display: grid;
-    grid-template-columns: repeat(5, 60px);
+    grid-template-columns: repeat(6, 60px);
     gap: 10px;
     justify-content: center;  /* Center the rows horizontally */
 }
